@@ -1,1 +1,2 @@
 # hello-world
+Esse é oficialmente o meu primeiro repositório. :) O objetivo da tarefa foi testar os comandos iniciais do git, incluindo o processo de clonar um repositório na máquina, criar arquivos dentro do repositório, adicionar o arquivo em stage e commitar. 
